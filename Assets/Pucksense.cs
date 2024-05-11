@@ -7,17 +7,19 @@ using TMPro;
 public class Pucksense : MonoBehaviour
 {
 	public TextMeshProUGUI dabloonsText; // Reference to the TextMeshProUGUI element that displays the dabloons count
-    private int dabloonsCount = 0; // To hold the number of dabloons
-
+    private int dabloonsscount = 0; // To hold the number of dabloons
+	
     private void Start()
     {
-        
+        PlayerPrefs.SetInt("dabloons", 0);
+		PlayerPrefs.Save();
     }
 
     private void OnTriggerEnter(Collider other)
     {
         // Increment the dabloons count when an object enters the collider
-        dabloonsCount++;
+		dabloonsscount = (PlayerPrefs.GetInt("dabloons", 0)+1);
+        PlayerPrefs.SetInt("dabloons", dabloonsscount);
         UpdateDabloonsDisplay();
     }
 
@@ -26,7 +28,7 @@ public class Pucksense : MonoBehaviour
         // Update the displayed text
         if (dabloonsText != null)
         {
-            dabloonsText.text = "Dabloons: " + dabloonsCount;
+            dabloonsText.text = "Dabloons: " + dabloonsscount.ToString();
         }
         else
         {
