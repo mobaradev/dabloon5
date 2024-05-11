@@ -1,0 +1,946 @@
+fileFormatVersion: 2
+guid: 0442e7bbaba31704f9175ea10003b6ef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Polish Cow _0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1210
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15667949404404242863d98aaa6ec8f1
+      internalID: -2063645647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1210
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a90ee641e523514795e1603b689db25
+      internalID: 1782425391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _3
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1210
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b59aa73a23c0074b9e46754e19e6692
+      internalID: 431289066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _4
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1210
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e406be10ad65f634890df0bfe6a518ae
+      internalID: 735083066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _5
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1210
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a15f06197790040ae0012de47f317c
+      internalID: -1142513462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _6
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1210
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5775223c491cf44e81c19c2b5b6d698
+      internalID: -721100994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b895c5783317e904296cda729da5b80d
+      internalID: 122980959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 968
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8691431a61d8292419eed2db0b4d388b
+      internalID: -2092480421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _9
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 968
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95767107c73e6e469a5aa571f5640da
+      internalID: -1429088146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _10
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 968
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e0094867fed654bbabb6871ad50d51
+      internalID: 516127321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _11
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 968
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27397a11da02e9746a6a3f852543a962
+      internalID: 655223979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _12
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 968
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900aabe787edd30499843ec1c40e7ac0
+      internalID: -1988456644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _13
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 968
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b0d74c744d0a640ae89492eab7b8de
+      internalID: 276221884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e668763c356d6a44493c8a3b2c0f9ea5
+      internalID: -301341613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 726
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8014e6f9283d06742a67cc812e812708
+      internalID: -1606996574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _16
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 726
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955c070145090874b8cf03052c74a774
+      internalID: -600209956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _17
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 726
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2a945d9eb08bc45969eb3753aa4f85
+      internalID: -581157559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _18
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 726
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665bcb9a7c5872043a85c191d8274b53
+      internalID: 1451763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _19
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 726
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de85d020091756840a4d67c2f2911dd7
+      internalID: 883651982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _20
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 726
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e315483e79e3e1478626006e9fb8d6e
+      internalID: 1770942500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f252625f8bec206469ee4d9007bd0943
+      internalID: 1757649157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _22
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 484
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc5f21bbe6ab2a4d90f834f5af0004e
+      internalID: 1122091920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _23
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 484
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4470d06f1704d1745b491a5470d287ec
+      internalID: 1652177891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _24
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 484
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eccd1ddaa2e6b4a9e1acb9f2c377ab
+      internalID: 2023603587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _25
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 484
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0496958624f1cae4a8b74e58fad64455
+      internalID: 633916927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _26
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 484
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8105dbf5beb666241b96238b3423dd6e
+      internalID: 651088269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _27
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 484
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b425280a281aa42874110fc5b2cc68
+      internalID: 332537454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c30ed7406ea2054a8af0606998e6ccf
+      internalID: -1846030591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _29
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 242
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7250245b17020408272cecb655edd2
+      internalID: 1347002188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _30
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 242
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc3b3207eaadee46bd05ddfad99769a
+      internalID: 675338290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _31
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 242
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb155f3a3251f5469ce6c8089c58fb8
+      internalID: -2070747017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _32
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 242
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0695c4b3918058149a560ba86c0ebfdd
+      internalID: -1650185254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _33
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 242
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10e04a67c115ef4bbeb599cf8548600
+      internalID: 1749986929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _34
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 242
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee58f6b8fc5328a47a3580fc4ef22240
+      internalID: -1348410530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77b14cc50da8754da5fc65b9606be7e
+      internalID: -2097630645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _36
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975426d3e2efccc4bb9cbbfccb75889e
+      internalID: -275529960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polish Cow _2
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1210
+        width: 364
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16b244ae539aa949834f16cde48f887
+      internalID: -1344856320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 583b7636c61b8c542b80884a6bb8567e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Polish Cow _0: -2063645647
+      Polish Cow _1: 1782425391
+      Polish Cow _10: 516127321
+      Polish Cow _11: 655223979
+      Polish Cow _12: -1988456644
+      Polish Cow _13: 276221884
+      Polish Cow _14: -301341613
+      Polish Cow _15: -1606996574
+      Polish Cow _16: -600209956
+      Polish Cow _17: -581157559
+      Polish Cow _18: 1451763
+      Polish Cow _19: 883651982
+      Polish Cow _2: -1344856320
+      Polish Cow _20: 1770942500
+      Polish Cow _21: 1757649157
+      Polish Cow _22: 1122091920
+      Polish Cow _23: 1652177891
+      Polish Cow _24: 2023603587
+      Polish Cow _25: 633916927
+      Polish Cow _26: 651088269
+      Polish Cow _27: 332537454
+      Polish Cow _28: -1846030591
+      Polish Cow _29: 1347002188
+      Polish Cow _3: 431289066
+      Polish Cow _30: 675338290
+      Polish Cow _31: -2070747017
+      Polish Cow _32: -1650185254
+      Polish Cow _33: 1749986929
+      Polish Cow _34: -1348410530
+      Polish Cow _35: -2097630645
+      Polish Cow _36: -275529960
+      Polish Cow _37: 1507921808
+      Polish Cow _38: 1361892002
+      Polish Cow _39: 943379408
+      Polish Cow _4: 735083066
+      Polish Cow _40: 1243936451
+      Polish Cow _41: -1161485094
+      Polish Cow _5: -1142513462
+      Polish Cow _6: -721100994
+      Polish Cow _7: 122980959
+      Polish Cow _8: -2092480421
+      Polish Cow _9: -1429088146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

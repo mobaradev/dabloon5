@@ -1,0 +1,5034 @@
+fileFormatVersion: 2
+guid: 3b8a151c6606668429d4dd820a3b578f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toothless_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12121
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9ad9ae0022e3b48b4deeabb195df93
+      internalID: 940778751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 12121
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e120b9b1f7a19c41bba8937a5d4a509
+      internalID: 1528473689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_2
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 12121
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a844e3f30b47ac488583caa1b860e62
+      internalID: 625787901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_3
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 12121
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be1e33434f6fcb41a10b54143fdd4ad
+      internalID: 57062320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_4
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 12121
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561e1dc591e31144190dec5a1857e7c3
+      internalID: -1230538188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_5
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 12121
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb55c50e32c1d0844bb8039ad6516f9c
+      internalID: 1462742172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_6
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 12121
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f07d7f21a20fa4408a384dbbaf17ee3
+      internalID: 859726344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11730
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0dd5c77a6dd734d94d44191fca40b0
+      internalID: 1101757034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 11730
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0b7689a8608b54f834aeb4ba72f22e
+      internalID: 127138560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_9
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 11730
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dab015731fe9c3438730465e1350915
+      internalID: -295398411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_10
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 11730
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659b089be7c26964a88a23bd50a28ea0
+      internalID: 624084519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_11
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 11730
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfed3b180b15eba4b96a9971d3b74e97
+      internalID: -1128397243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_12
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 11730
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1dfd10425db0943b357e1e0543994b
+      internalID: -709556603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_13
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 11730
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8a5bc11dc33674ab7dd740c14dcf35
+      internalID: -13051838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11339
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9047f9f0b80ffe347bfd17eeed95336f
+      internalID: 1446928067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 11339
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aef516c4ed14f4497cb510e3a91191
+      internalID: 690709185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_16
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 11339
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc66696b2ee5c3d4eabe47d0eee5090a
+      internalID: 10899523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_17
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 11339
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e001af150811c4dbd3040e14bceba7
+      internalID: 1780689040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_18
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 11339
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e1887d94d0cec40ae5a24f6898ca20
+      internalID: 929971463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_19
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 11339
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc7362c1eeb4234fbb6ae53aead74c1
+      internalID: 1438443155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_20
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 11339
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8eeff11211603a4192c7ae05c596aa3
+      internalID: -1278139565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10948
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3a23ba1f1e6574fb8b5e85ddf52bb6
+      internalID: 2078869199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_22
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 10948
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe31f36fbcd32d4faef16f957a4df16
+      internalID: -1914110715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_23
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 10948
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40666d14cd3a204ea21904715093a4c
+      internalID: 1723634565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_24
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 10948
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4894cb99c2b339345849d0a02f7790fa
+      internalID: 2047796331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_25
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 10948
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4689619e3704ef54a88297ef97b1e0e2
+      internalID: 546400900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_26
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 10948
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3696a75c72ca4274493451c2313b5c71
+      internalID: -1064220873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_27
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 10948
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac694d29f0481648b6e29a6702802d5
+      internalID: 2038276743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10557
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e146dfe45379e2646bf9ee5b997ee847
+      internalID: 1771552692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_29
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 10557
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b58578b115278e429a32f607530fba8
+      internalID: -785938516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_30
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 10557
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c271b43edf55d74fbd6a5cad7b6248f
+      internalID: 2015583445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_31
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 10557
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea877bf349d86943bcfdaa8fc69818a
+      internalID: 1103310420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_32
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 10557
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51d85ad2a74aa0439482e26979b718a
+      internalID: 1873428859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_33
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 10557
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db58eab5b78a873429651e76e188031b
+      internalID: -1762310058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_34
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 10557
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec56b1fc773fd764aa6fd5cb3f2a64be
+      internalID: -1331572600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10166
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0144a89bb59503f4e8c9709d7c541ef8
+      internalID: -691969974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_36
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 10166
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12262c8b00909da49b5b25bdd08345e3
+      internalID: -2140646979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_37
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 10166
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977b1aefc1a936742b37d851109a0b59
+      internalID: -2116484374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_38
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 10166
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15755687228304146ae893cae8ec3c9c
+      internalID: 1428482975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_39
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 10166
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a25997875cb4e43a1cc3887e919acf
+      internalID: 188135824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_40
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 10166
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8b4b5bec161934f810994c932b86a7
+      internalID: -1214734758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_41
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 10166
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdd21f2d507d004282881b13b320efa
+      internalID: -181873285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9775
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c808795a54d3a84d9a5a79edfe5aa76
+      internalID: -1870448317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_43
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 9775
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d8fe407fe77da42884b811e67155d3
+      internalID: 1476162741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_44
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 9775
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff20e2ffacc65d4bb21b6bafed35ea0
+      internalID: -2035178368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_45
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 9775
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c85c01daca7bb943a815f4c5cdb395f
+      internalID: -1544488221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_46
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 9775
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91818b92f6ef8314e8bb5c20a2644ee0
+      internalID: -1404996074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_47
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 9775
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6875fdd0570664c9c07c5cb80850b8
+      internalID: 1572641389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_48
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 9775
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ecd51a9982c1a4eaff138db3db1cdf
+      internalID: -1217739127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9384
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1b44b02904e344d991a071b4d2cbc6
+      internalID: 1892479341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_50
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 9384
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9145379435383d043ad4164044acbe68
+      internalID: -1732459299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_51
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 9384
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8935facf7cc594ea53e3ba5fd0401a
+      internalID: -15154205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_52
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 9384
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352b4c90855ed5244ada49d95c0c0e99
+      internalID: -1244126690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_53
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 9384
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e17576011119e4f8c05730eb52562b
+      internalID: 1601544583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_54
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 9384
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d818d72b02a7e0d44b55be40878064e7
+      internalID: -1762366667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_55
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 9384
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971d27d2990f75c4d82fd5bcec924c0b
+      internalID: 95738563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8993
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9bf1aca6b32534493e42cb3bc3b474
+      internalID: 1152224118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_57
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 8993
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aefbfab7446974b9380210a4164cfd
+      internalID: -2061095353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_58
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 8993
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b7f278ea65e0045bfe519ae20a12bb
+      internalID: -1872216610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_59
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 8993
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0647062f3eb49d540b5736df2bdb48cd
+      internalID: -1530067943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_60
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 8993
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4647eb479ed8d74a9acc03875c25079
+      internalID: -711545939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_61
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 8993
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d64e1d640f861347b919d62450022fb
+      internalID: -1343244743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_62
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 8993
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e77cb541aff86f46ace2742ec496fdf
+      internalID: -833630422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8602
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54168e2f5527f047b395a4666ae98c7
+      internalID: 1861577069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_64
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 8602
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464157a655ca2da4388ff8979e6198e3
+      internalID: -684685025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_65
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 8602
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b338ca9e09cf0b4abb2409f03d8079d
+      internalID: 1119439969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_66
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 8602
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1989fb770219f548adfe1fe7c56b494
+      internalID: 1745310769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_67
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 8602
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31564295e6a41af4b985122bc9b0050f
+      internalID: -992726950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_68
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 8602
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e404ca9d66a7654e83d28538b1a9a5d
+      internalID: 141335769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_69
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 8602
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e4342dbf2c55e418347cbff913f651
+      internalID: -1886623422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8211
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec40a1d819d3f14a82ce20569824c86
+      internalID: 1576319154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_71
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 8211
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3eb2e2a03b801449b0bb73f03309d8
+      internalID: -483930427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_72
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 8211
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a3d610629dbfb4fb4ecd0e9243b07e
+      internalID: 1630907176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_73
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 8211
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e9c025de855f946a3fba8a766dbe5d
+      internalID: 470591883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_74
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 8211
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebc008c398535940ae32f349263350e
+      internalID: -1603325278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_75
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 8211
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d995268a1d9e7a49b642a5099edb11f
+      internalID: 269000489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_76
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 8211
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dd45eae03b4d74c83a621a6fa70307
+      internalID: -27944328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7820
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9206ddae8a38a4382d0ae8643bb2b5
+      internalID: 1050728539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_78
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 7820
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2f6ded9b3617946bddc4f2f960d53a
+      internalID: 2048086191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_79
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 7820
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7fb7b4aaa8b024cb7fa82af7c10caf
+      internalID: -1282738155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_80
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 7820
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8756730f09b4b3847a648551d036dc10
+      internalID: 1862757774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_81
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 7820
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e808b7937e6bbe94fa1ebd5df8d013bb
+      internalID: -2042977659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_82
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 7820
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ab21307f94517489f77f378431ea2f
+      internalID: 1824609480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_83
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 7820
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8074167325b9dd3408172939e5a263fb
+      internalID: 1960517268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7429
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f69ab98da4c84049864c103ac019233
+      internalID: -538013702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_85
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 7429
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc50f6c156d2ab499bd727f430bce4f
+      internalID: -605335333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_86
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 7429
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65a4fd3f63aee2448755252f67d27bf
+      internalID: 2130731355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_87
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 7429
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d429298da01104a4fbd7a9e81e3e192c
+      internalID: 143169849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_88
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 7429
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221831da0ab87da47acdd80b76548564
+      internalID: 846199958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_89
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 7429
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0948ebf914c836249afd518ff66d25c0
+      internalID: 1532695051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_90
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 7429
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9d1ee840683f74791af4551a34d19b
+      internalID: -308853647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7038
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa11d6f3a2b8ffe42a50549c982353ed
+      internalID: 1014222242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_92
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 7038
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfaa20779561b04a97b0d7fd1b26550
+      internalID: -1724407903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_93
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 7038
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5eae160a0aaccb4dab60fc056c6f112
+      internalID: -1736340457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_94
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 7038
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a499a61b7d0f54f8bdef7bff18d1ba
+      internalID: -748734863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_95
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 7038
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2fe2b653b14de4999632d8a1f5c5ac
+      internalID: -1010438103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_96
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 7038
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0408b61ba223b8646aaeeeabac421235
+      internalID: 2010577470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_97
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 7038
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e25ba08ee212c43af50e0b200ecd9d
+      internalID: -1350826600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6647
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa9f52c2d19c174897c804035eb61a0
+      internalID: 222534258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_99
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 6647
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d0ae3234980ef41ab896c600725436
+      internalID: 213870386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_100
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 6647
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77563b52332a79047a488da3ff211b0f
+      internalID: -808414836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_101
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 6647
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c1d27ed287ce64f81e22cb92b10cb7
+      internalID: -1823297118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_102
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 6647
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9f42a3637ac854a8300835939328a5
+      internalID: 274138814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_103
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 6647
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbc3891d7359aa4c96b05bd6c87b657
+      internalID: 1691652338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_104
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 6647
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a469084504acc414cbb9ae406caeec9c
+      internalID: -341405656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6256
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670d057b831ad4b4586c225847f43645
+      internalID: -1385492229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_106
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 6256
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b65b7fd90317b34389ce578d2a811c1
+      internalID: -1907396881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_107
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 6256
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb62072905e17847b1d415fce860c5f
+      internalID: -1486534815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_108
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 6256
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53013d300b7dfc4c8159384f752be9d
+      internalID: -876063252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_109
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 6256
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1083baecacc532948948b6821ac8b7eb
+      internalID: -246024570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_110
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 6256
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf72cf89eea4b9844a3e379516b2eaaf
+      internalID: -1649404796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_111
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 6256
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa7c5122d43d35488c77bcabcde4827
+      internalID: -1231648009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5865
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560dcc0ef90e96a46be5835273f11cc1
+      internalID: 976766567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_113
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 5865
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a3ca69c6ac47049bafb13b626c06e9
+      internalID: -1232609129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_114
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 5865
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4cf4a9914ff264fab367f49edaedef
+      internalID: 1979060257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_115
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 5865
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dc83dc2b968dc498b6baab011ecd5e
+      internalID: -1975120482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_116
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 5865
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1adfae9bcd9e249a21d6b78a2a9987
+      internalID: 194880323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_117
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 5865
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e646bf482afb4604fb781339db4a5586
+      internalID: 159129442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_118
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 5865
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e5167e6e8b08b43828e115ad939f33
+      internalID: 96882735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5474
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840b8b4402b26ff438088f9d10a90454
+      internalID: -1194853906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_120
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 5474
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f1deea8217b46468abb5d5489296ba
+      internalID: 204198414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_121
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 5474
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9dcc416be19bc4b9b90cc5c4d085ff
+      internalID: -490116238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_122
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 5474
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9261f231f8b3644389be8c42e1a0e0e
+      internalID: 1276127303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_123
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 5474
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499ec4dd4bab5f641a040acd48d3e797
+      internalID: -934380647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_124
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 5474
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5d5268af34f2a41bb5f003604ac6e4
+      internalID: -1836888828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_125
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 5474
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fd6dc8ce626da4eb3e23ddf8f23de4
+      internalID: -1631541874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5083
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3180fdd9a0c3e7a4ba905fd7ae2631eb
+      internalID: -496602848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_127
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 5083
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96eb58cebc796f438853625e589226c
+      internalID: -1591914906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_128
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 5083
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d0cc01f57f12044b7f77d01e600b22
+      internalID: 1813815844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_129
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 5083
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98117c3672b243f4fb953d20ae268e79
+      internalID: 1775807995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_130
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 5083
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc6c7d268b139047b5ae1e83344950b
+      internalID: 1275068718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_131
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 5083
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50cee16f407c3d4a88ad77a277ddb55
+      internalID: -1100617765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_132
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 5083
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df839a258a54fe489512edff02c6981
+      internalID: -1091048273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4692
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28c710ef0c89c44e827ad8e5b0a848a
+      internalID: 366269102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_134
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 4692
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cc8d8a97a1f5f4da0a71f53affbde7
+      internalID: -445462203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_135
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 4692
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5229250a23fe39242a549b37b41e465d
+      internalID: -26082086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_136
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 4692
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b531ba9341b71324ca7a98becd2753f6
+      internalID: 1702932763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_137
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 4692
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bb1b72e6f1ecc4489c1d28daf1b276
+      internalID: 2030142840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_138
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 4692
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2966ccfe5193d544b8ab849631428608
+      internalID: -614013685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_139
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 4692
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeef2a5d1edcdcb44ad11ee3d37fc919
+      internalID: 1372003422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4301
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ce7d102efd184449969b140988e87a
+      internalID: 2017568745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_141
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 4301
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85a274f831c8aa47958815ddc5de8ec
+      internalID: -799249622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_142
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 4301
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372969ad0146b4946b0f48a407797ca5
+      internalID: -183001799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_143
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 4301
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd63545da937a1b4b96a7d680ed94e58
+      internalID: 1671486924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_144
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 4301
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9136dbace2e1e643bc70cfab2fa049c
+      internalID: 1237965500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_145
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 4301
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b37313a11011b4d93abab7d61523d1
+      internalID: 540392934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_146
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 4301
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1972040888931244e82e04e541732b5d
+      internalID: 513347911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3910
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f5b4727966b3046912fa24fcdf19e0
+      internalID: -2115264623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_148
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3910
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c1b01f3fd6dcf45aab4b3a79c1d64a
+      internalID: 1943536682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_149
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3910
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647591e75fb7b6f4287ea3d766724811
+      internalID: -1393921793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_150
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 3910
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6e8078b25ce114aabd3976a7c23f7d
+      internalID: 351571336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_151
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 3910
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5f1487023e7d14b9d52c202bd468df
+      internalID: 960906978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_152
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 3910
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426905269deb65943989b7b599b51fa0
+      internalID: -683858709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_153
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3910
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4cd74f5eb7525478c62311d30b427e
+      internalID: 1161317246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3519
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a44730d4844064caad657fcc880e4f
+      internalID: 1518096707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_155
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3519
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630e945be08e6704fbf5e4d5a0efb914
+      internalID: 1877202057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_156
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3519
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36915884e64b6f41949f0495b6070de
+      internalID: -561255818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_157
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 3519
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f261a06e94fa2654c9e23ec95819d817
+      internalID: 1632525219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_158
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 3519
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca9dc9e14ddb2e4b873b0141506c09c
+      internalID: 1934881008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_159
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 3519
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c036929d6801e0248a99c8a884d4be44
+      internalID: 527760122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_160
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3519
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc0815f864e77548bcd130c74fd6971
+      internalID: -5359436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3128
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954797837a068c442af08ba174f4401e
+      internalID: 913497855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_162
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3128
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60ba967e84ff9e49bd7c18b8b0a710a
+      internalID: -1754710161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_163
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3128
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64c6c70f7a730041a0c521cb2e607b8
+      internalID: 209361410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_164
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 3128
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380d0a766349ef746bdaf45b631b31e8
+      internalID: 1829825881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_165
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 3128
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42cff082683f284ea3e1d70ef189b5d
+      internalID: 1033190227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_166
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 3128
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db325618cba36e49b0541a27a84ebe8
+      internalID: -977639963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_167
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3128
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda520f318021b64d8cdbb1d3a0adadf
+      internalID: 807411058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2737
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e960f1ccdb46ce04c96bf7d394d800bd
+      internalID: 293746382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_169
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2737
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5240c78d7a94f0743b21c5fc7325b5c1
+      internalID: -1087577042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_170
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2737
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f77228bb6102ae47918f79d93d02cea
+      internalID: 1304769099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_171
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2737
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8cdd1ecb20e6d4b9d5c7be38025934
+      internalID: -633774314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_172
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2737
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c185dad1398ef9b4093c097eab15657d
+      internalID: -1171163971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_173
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 2737
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b81af7b5f0dc140a5cee0ab7fd60a3
+      internalID: 1331818929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_174
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 2737
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df80a6ec7fcfe964597420a2d43c4ab1
+      internalID: 1304411818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2346
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbaa94d3079332448665da0a83ed609
+      internalID: 1001064284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_176
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2346
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cae98b2d1544f144aef41c7565a8f96
+      internalID: 517968796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_177
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2346
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8859bfa5615324b80180d28cb476b9
+      internalID: -1713377104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_178
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2346
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ba9270b9eb7c24dab76aa0e65920c4
+      internalID: -556840974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_179
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2346
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663b1ddd2968b924c87f0c574b864af3
+      internalID: 429457844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_180
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 2346
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd64447bd7886440aa47c0ec96d3208
+      internalID: 1489563028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_181
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 2346
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00458200a1c02a4fa8a9351e24268c6
+      internalID: -1689296014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1955
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531f449e5682f5e4fb799ba7e19cbce5
+      internalID: -1155387871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_183
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1955
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a8f6bdf58b2344ba31a44b0268f2c1
+      internalID: 284788155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_184
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1955
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a890a8e2bd6c24a80f16b2fb1dbbbf
+      internalID: -92878657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_185
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1955
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d755a237858ca27438fbc41816ebb788
+      internalID: -1551088809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_186
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1955
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20c32470950ddf40a58383ea59fc845
+      internalID: -417334483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_187
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1955
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38612be3e4d11c34bbf6e2e3c640677a
+      internalID: -290227206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_188
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1955
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b16c38cf5d68e34d89f1411dae12540
+      internalID: 847462843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1564
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424fde6c77cf95a4a8d05a2ca247e288
+      internalID: 1449499971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_190
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1564
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8710f78f8cb9e0c4eb1917cd3c828442
+      internalID: 1096258197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_191
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1564
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1091ce8df950abe47bb5a436d36080af
+      internalID: -855305468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_192
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1564
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3f0daeefb85c240ab97960874436fc
+      internalID: 518711649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_193
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1564
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbbac10d87787d46ac69d06d1357db7
+      internalID: 2080701470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_194
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1564
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca31c032754203408e831510290b53b
+      internalID: 2064145480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_195
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1564
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e481df60852f7c4e9668b87a8386a33
+      internalID: -2016493480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1173
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424a3ecca5a85624ca2c195e5bd6397d
+      internalID: -84774809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_197
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1173
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604732e8268929549a30a07b180786b7
+      internalID: -162638448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_198
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1173
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f4d0d39108c4147a348e62b9b53fd9
+      internalID: 727496089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_199
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1173
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07e0ae1de94c3540a6896b766d96bfc
+      internalID: 950033442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_200
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1173
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554494e98bf8282458e4f15cb96efda6
+      internalID: 2063599243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_201
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1173
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeaa23c96f391241a0b453b82f2056c
+      internalID: -1139468072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_202
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1173
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e9104b3e93aff4a8fa38fc61878ff1
+      internalID: 1277359225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 782
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38227bf96b911c84c8f51b9cb502edb0
+      internalID: -1195092794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_204
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 782
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cadfd51c274b9845967948ad1b31c77
+      internalID: -689366018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_205
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 782
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a904dba1084c9024397030ee3a3d6ef5
+      internalID: -2120376506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_206
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 782
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cd52d0ae7113b48bc217d93578182c
+      internalID: -1790195828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_207
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 782
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd463183cc4e06f42bda4514801e67e2
+      internalID: 310077641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_208
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 782
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28764024ce2d0114eb5947ebcee83d65
+      internalID: 1269694124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_209
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 782
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2f99b95cdbd104baf3bc2cff274961
+      internalID: 589738054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3a26feb7eb64b4c94090f09acdb573
+      internalID: -339183437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_211
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 391
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc073fda0d5261445a97cd98793717b5
+      internalID: -1118052355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_212
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 391
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c167ce51c36182242a869be044819928
+      internalID: 387856206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_213
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 391
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e462afadb679b0478f5e9850ffb45aa
+      internalID: 735552257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_214
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 391
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd9b7aaed03bdf4287a54faf9bb30c1
+      internalID: -1780569922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_215
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 391
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ad0dbf766fc774181faa897498862a
+      internalID: -925604163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_216
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 391
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e60ecd1912a98448bf93a5962ec013
+      internalID: 121731180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cc0cc4de5a7824abf20340aaae68ee
+      internalID: 166916057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_218
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879c19863f137ec4b968243098df51b6
+      internalID: 247358445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_219
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f4df6629bba424681e1b16c411db06
+      internalID: -1137983735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_220
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 0
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdc175bfa3cff446b1b163402325c8c
+      internalID: 2105177980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_221
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 0
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d65c77d6847ac42ad2322c67f2e438
+      internalID: 1739266145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toothless_222
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 0
+        width: 498
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84df12e23ebf05047ba3aef92cb4e09a
+      internalID: 1223407194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d2018bf68b41e9d4da65f4446a11a533
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      toothless_0: 940778751
+      toothless_1: 1528473689
+      toothless_10: 624084519
+      toothless_100: -808414836
+      toothless_101: -1823297118
+      toothless_102: 274138814
+      toothless_103: 1691652338
+      toothless_104: -341405656
+      toothless_105: -1385492229
+      toothless_106: -1907396881
+      toothless_107: -1486534815
+      toothless_108: -876063252
+      toothless_109: -246024570
+      toothless_11: -1128397243
+      toothless_110: -1649404796
+      toothless_111: -1231648009
+      toothless_112: 976766567
+      toothless_113: -1232609129
+      toothless_114: 1979060257
+      toothless_115: -1975120482
+      toothless_116: 194880323
+      toothless_117: 159129442
+      toothless_118: 96882735
+      toothless_119: -1194853906
+      toothless_12: -709556603
+      toothless_120: 204198414
+      toothless_121: -490116238
+      toothless_122: 1276127303
+      toothless_123: -934380647
+      toothless_124: -1836888828
+      toothless_125: -1631541874
+      toothless_126: -496602848
+      toothless_127: -1591914906
+      toothless_128: 1813815844
+      toothless_129: 1775807995
+      toothless_13: -13051838
+      toothless_130: 1275068718
+      toothless_131: -1100617765
+      toothless_132: -1091048273
+      toothless_133: 366269102
+      toothless_134: -445462203
+      toothless_135: -26082086
+      toothless_136: 1702932763
+      toothless_137: 2030142840
+      toothless_138: -614013685
+      toothless_139: 1372003422
+      toothless_14: 1446928067
+      toothless_140: 2017568745
+      toothless_141: -799249622
+      toothless_142: -183001799
+      toothless_143: 1671486924
+      toothless_144: 1237965500
+      toothless_145: 540392934
+      toothless_146: 513347911
+      toothless_147: -2115264623
+      toothless_148: 1943536682
+      toothless_149: -1393921793
+      toothless_15: 690709185
+      toothless_150: 351571336
+      toothless_151: 960906978
+      toothless_152: -683858709
+      toothless_153: 1161317246
+      toothless_154: 1518096707
+      toothless_155: 1877202057
+      toothless_156: -561255818
+      toothless_157: 1632525219
+      toothless_158: 1934881008
+      toothless_159: 527760122
+      toothless_16: 10899523
+      toothless_160: -5359436
+      toothless_161: 913497855
+      toothless_162: -1754710161
+      toothless_163: 209361410
+      toothless_164: 1829825881
+      toothless_165: 1033190227
+      toothless_166: -977639963
+      toothless_167: 807411058
+      toothless_168: 293746382
+      toothless_169: -1087577042
+      toothless_17: 1780689040
+      toothless_170: 1304769099
+      toothless_171: -633774314
+      toothless_172: -1171163971
+      toothless_173: 1331818929
+      toothless_174: 1304411818
+      toothless_175: 1001064284
+      toothless_176: 517968796
+      toothless_177: -1713377104
+      toothless_178: -556840974
+      toothless_179: 429457844
+      toothless_18: 929971463
+      toothless_180: 1489563028
+      toothless_181: -1689296014
+      toothless_182: -1155387871
+      toothless_183: 284788155
+      toothless_184: -92878657
+      toothless_185: -1551088809
+      toothless_186: -417334483
+      toothless_187: -290227206
+      toothless_188: 847462843
+      toothless_189: 1449499971
+      toothless_19: 1438443155
+      toothless_190: 1096258197
+      toothless_191: -855305468
+      toothless_192: 518711649
+      toothless_193: 2080701470
+      toothless_194: 2064145480
+      toothless_195: -2016493480
+      toothless_196: -84774809
+      toothless_197: -162638448
+      toothless_198: 727496089
+      toothless_199: 950033442
+      toothless_2: 625787901
+      toothless_20: -1278139565
+      toothless_200: 2063599243
+      toothless_201: -1139468072
+      toothless_202: 1277359225
+      toothless_203: -1195092794
+      toothless_204: -689366018
+      toothless_205: -2120376506
+      toothless_206: -1790195828
+      toothless_207: 310077641
+      toothless_208: 1269694124
+      toothless_209: 589738054
+      toothless_21: 2078869199
+      toothless_210: -339183437
+      toothless_211: -1118052355
+      toothless_212: 387856206
+      toothless_213: 735552257
+      toothless_214: -1780569922
+      toothless_215: -925604163
+      toothless_216: 121731180
+      toothless_217: 166916057
+      toothless_218: 247358445
+      toothless_219: -1137983735
+      toothless_22: -1914110715
+      toothless_220: 2105177980
+      toothless_221: 1739266145
+      toothless_222: 1223407194
+      toothless_223: 1536966608
+      toothless_23: 1723634565
+      toothless_24: 2047796331
+      toothless_25: 546400900
+      toothless_26: -1064220873
+      toothless_27: 2038276743
+      toothless_28: 1771552692
+      toothless_29: -785938516
+      toothless_3: 57062320
+      toothless_30: 2015583445
+      toothless_31: 1103310420
+      toothless_32: 1873428859
+      toothless_33: -1762310058
+      toothless_34: -1331572600
+      toothless_35: -691969974
+      toothless_36: -2140646979
+      toothless_37: -2116484374
+      toothless_38: 1428482975
+      toothless_39: 188135824
+      toothless_4: -1230538188
+      toothless_40: -1214734758
+      toothless_41: -181873285
+      toothless_42: -1870448317
+      toothless_43: 1476162741
+      toothless_44: -2035178368
+      toothless_45: -1544488221
+      toothless_46: -1404996074
+      toothless_47: 1572641389
+      toothless_48: -1217739127
+      toothless_49: 1892479341
+      toothless_5: 1462742172
+      toothless_50: -1732459299
+      toothless_51: -15154205
+      toothless_52: -1244126690
+      toothless_53: 1601544583
+      toothless_54: -1762366667
+      toothless_55: 95738563
+      toothless_56: 1152224118
+      toothless_57: -2061095353
+      toothless_58: -1872216610
+      toothless_59: -1530067943
+      toothless_6: 859726344
+      toothless_60: -711545939
+      toothless_61: -1343244743
+      toothless_62: -833630422
+      toothless_63: 1861577069
+      toothless_64: -684685025
+      toothless_65: 1119439969
+      toothless_66: 1745310769
+      toothless_67: -992726950
+      toothless_68: 141335769
+      toothless_69: -1886623422
+      toothless_7: 1101757034
+      toothless_70: 1576319154
+      toothless_71: -483930427
+      toothless_72: 1630907176
+      toothless_73: 470591883
+      toothless_74: -1603325278
+      toothless_75: 269000489
+      toothless_76: -27944328
+      toothless_77: 1050728539
+      toothless_78: 2048086191
+      toothless_79: -1282738155
+      toothless_8: 127138560
+      toothless_80: 1862757774
+      toothless_81: -2042977659
+      toothless_82: 1824609480
+      toothless_83: 1960517268
+      toothless_84: -538013702
+      toothless_85: -605335333
+      toothless_86: 2130731355
+      toothless_87: 143169849
+      toothless_88: 846199958
+      toothless_89: 1532695051
+      toothless_9: -295398411
+      toothless_90: -308853647
+      toothless_91: 1014222242
+      toothless_92: -1724407903
+      toothless_93: -1736340457
+      toothless_94: -748734863
+      toothless_95: -1010438103
+      toothless_96: 2010577470
+      toothless_97: -1350826600
+      toothless_98: 222534258
+      toothless_99: 213870386
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
